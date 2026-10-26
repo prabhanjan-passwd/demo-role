@@ -1,0 +1,4 @@
+---
+- name: Display external role information
+  ansible.builtin.debug:
+    msg: "External role demo_role is running successfully"
